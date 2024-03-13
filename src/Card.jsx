@@ -14,7 +14,7 @@ export default function App() {
         removeWrapper
         alt="Card background"
         className="z-0 w-full h-full object-cover"
-        src="../public/retirement.jpg"
+        src="https://i.postimg.cc/tgDYFXbj/retirement.jpg"
       />
       
     </Card>
@@ -27,7 +27,7 @@ export default function App() {
         removeWrapper
         alt="Card background"
         className="z-0 w-full h-full object-cover"
-        src="../public/babyshower.jpg"
+        src="https://i.postimg.cc/fbDHqv9N/babyshower.jpg"
       />
     </Card>
     <Card className="col-span-12 sm:col-span-4 h-[300px] hover:translate-x-1 hover:translate-y-1">
@@ -39,7 +39,7 @@ export default function App() {
         removeWrapper
         alt="Card background"
         className="z-0 w-full h-full object-cover"
-        src="../public/rings.jpg"
+        src="https://i.postimg.cc/tgDYFXbj/retirement.jpg"
       />
     </Card>
     <Card isFooterBlurred className="w-full h-[300px] col-span-12 sm:col-span-5 hover:translate-x-1 hover:translate-y-1">
@@ -51,7 +51,7 @@ export default function App() {
         removeWrapper
         alt="Card example background"
         className="z-0 w-full h-full scale-125 -translate-y-6 object-cover"
-        src="../public/birthdaycelebration.jpg"
+        src="https://i.postimg.cc/j5tNH8mp/birthdaycelebration.jpg"
       />
     </Card>
     <Card isFooterBlurred className="w-full h-[300px] col-span-12 sm:col-span-7 hover:translate-x-1 hover:translate-y-1">
@@ -63,7 +63,7 @@ export default function App() {
         removeWrapper
         alt="Relaxing app background"
         className="z-0 w-full h-full object-cover"
-        src="../public/weddings.jpg"
+        src="https://i.postimg.cc/Y0cSNjvh/weddings.jpg"
       />
     </Card>  
   </div>
